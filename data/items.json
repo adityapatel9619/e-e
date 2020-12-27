@@ -5,8 +5,8 @@
         "ItemID":"HPDX312",
         "ItemName":"HP",
         "ItemImage":"",
-        "MRP":"60000",
-        "RetailPrice":"58599",
+        "MRP":60000,
+        "RetailPrice":58599,
         "Currency":"INR",
         "Rating":"4.0"
     },
@@ -16,8 +16,8 @@
         "ItemID":"DRAQ420",
         "ItemName":"Aquet Drone D420",
         "ItemImage":"",
-        "MRP":"20000",
-        "RetailPrice":"58599",
+        "MRP":20000,
+        "RetailPrice":58599,
         "Currency":"INR",
         "Rating":"4.0"
     }
