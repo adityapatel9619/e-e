@@ -1,7 +1,7 @@
 [
     {
-        "ID":1,
-        "name":"Tablet Phones"
+        "CategoryID":1,
+        "Categoryname":"Tablet Phones"
     },
     {
         "ID":2,
